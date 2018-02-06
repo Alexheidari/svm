@@ -1,6 +1,6 @@
 #! /suer/bin/env python
 '''
-@author: stober
+@author: stober the original author
 '''
 
 from distutils.core import setup
